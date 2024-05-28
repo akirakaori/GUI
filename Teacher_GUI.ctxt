@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Teacher_GUI
+comment1.params=
+comment1.target=Teacher_GUI()
+comment2.params=
+comment2.target=void\ mainFrame()
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+comment4.params=
+comment4.target=void\ submainFrame()
+comment5.params=
+comment5.target=void\ lecturerFrame()
+comment6.params=
+comment6.target=void\ TutorFrame()
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
